@@ -12,8 +12,6 @@ logs
 node_modules
 
 # Built files
-lib_commonjs/
-lib_esmodule/
 
 # Built demo files
 demo/dist
